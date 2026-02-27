@@ -44,13 +44,13 @@ English | [简体中文](./README.zh-CN.md)
 ## Templates & Starter Kits
 
 - **mattgi/electrobun-starter** — Bun + Vite + React + Tailwind + shadcn/ui starter. https://github.com/mattgi/electrobun-starter
-- **rajavijayach/catalyst-electrobun-boilerplate** — Catalyst + Electrobun monorepo boilerplate (template). https://github.com/rajavijayach/catalyst-electrobun-boilerplate
+- **rajavijayach/catalyst-electrobun-boilerplate** — Monorepo template: Catalyst web app + Electrobun desktop shell (Bun) with shared RPC types and CI workflow. https://github.com/rajavijayach/catalyst-electrobun-boilerplate
 - **context-assistant/electrobun-template** — Electrobun template repository. https://github.com/context-assistant/electrobun-template
 - **adam2am/sveltekit-electrobun** — SvelteKit starter for Electrobun. https://github.com/adam2am/sveltekit-electrobun
 - **TB516/electrobun-svelte-template** — Svelte template for Electrobun. https://github.com/TB516/electrobun-svelte-template
 - **jeffgca/electrobun-sveltekit-example** — Example of running SvelteKit inside an Electrobun project. https://github.com/jeffgca/electrobun-sveltekit-example
 - **AlessandroSampaio/electrobun-solid-tailwind-template** — Solid + Tailwind template for Electrobun. https://github.com/AlessandroSampaio/electrobun-solid-tailwind-template
-- **Ataraxy-Labs/electrobun-react-starter** — Minimal starter: Electrobun + React + TanStack Router + Vite. https://github.com/Ataraxy-Labs/electrobun-react-starter
+- **Ataraxy-Labs/electrobun-react-starter** — Batteries-included starter: React 19 + TanStack Router/Query + Tailwind CSS v4 + Vite 7, with a Bun backend and separate Shell RPC vs Tab RPC channels. https://github.com/Ataraxy-Labs/electrobun-react-starter
 - **AugusDogus/create-electrobun-react** — Starter template for Electrobun + React (create-* style). https://github.com/AugusDogus/create-electrobun-react
 - **rmay1er/electrobun-counter-template** — Counter template. https://github.com/rmay1er/electrobun-counter-template
 - **JakkeLab-AEC/electrobun-three-kit** — Boilerplate for 3D apps. https://github.com/JakkeLab-AEC/electrobun-three-kit
