@@ -1,5 +1,7 @@
 # Awesome Electrobun（精选清单）
 
+[English](./README.md) | 简体中文
+
 一个关于 **Electrobun** 的精选资源清单：工具链、模板、UI 组件、示例、以及基于 Electrobun 构建的应用。
 
 - 欢迎 PR
