@@ -13,7 +13,7 @@ A curated list of awesome **Electrobun** resources, tooling, templates, UI kits,
 - [Templates & Starter Kits](#templates--starter-kits)
 - [UI / Frontend (Webview)](#ui--frontend-webview)
 - [Native Capabilities (OS Integration)](#native-capabilities-os-integration)
-- [Main  Webview Communication](#main--webview-communication)
+- [Main ↔ Webview Communication](#main--webview-communication)
 - [Auto Update & Differential Patching](#auto-update--differential-patching)
 - [Packaging, Signing & Notarization](#packaging-signing--notarization)
 - [CI/CD & Release Automation](#cicd--release-automation)
@@ -30,11 +30,11 @@ A curated list of awesome **Electrobun** resources, tooling, templates, UI kits,
 
 ## Official
 
-- **Electrobun (GitHub)**  Core project repository. https://github.com/blackboardsh/electrobun
+- **Electrobun (GitHub)** — Core project repository. https://github.com/blackboardsh/electrobun
 
 ## Getting Started
 
-- **Quickstart**  Initialize a new app with `npx electrobun init`. https://github.com/blackboardsh/electrobun
+- **Quickstart** — Initialize a new app with `npx electrobun init`. https://github.com/blackboardsh/electrobun
 
 ## Templates & Starter Kits
 
@@ -48,13 +48,13 @@ A curated list of awesome **Electrobun** resources, tooling, templates, UI kits,
 
 - *(Tray/menu, notifications, file dialogs, deep links/protocol handlers, global shortcuts, clipboard, etc.)*
 
-## Main  Webview Communication
+## Main ↔ Webview Communication
 
 - *(RPC bridges, message bus patterns, type-safe IPC, state sync.)*
 
 ## Auto Update & Differential Patching
 
-- **zig-bsdiff**  SIMD + zstd powered bsdiff/bspatch; used by Electrobun for differential updates. https://blackboard.sh/blog/introducing-zig-bsdiff/
+- **zig-bsdiff** — SIMD + zstd powered bsdiff/bspatch; used by Electrobun for differential updates. https://blackboard.sh/blog/introducing-zig-bsdiff/
 
 ## Packaging, Signing & Notarization
 
@@ -74,22 +74,22 @@ A curated list of awesome **Electrobun** resources, tooling, templates, UI kits,
 
 ## Example Apps (Open Source)
 
-- **Audio TTS**  Example app (from the Electrobun repo). https://github.com/blackboardsh/electrobun
-- **Co(lab)**  Another app built with Electrobun (listed in the repo). https://github.com/blackboardsh/electrobun
+- **Audio TTS** — Example app (from the Electrobun repo). https://github.com/blackboardsh/electrobun
+- **Co(lab)** — Another app built with Electrobun (listed in the repo). https://github.com/blackboardsh/electrobun
 
 ## Commercial Apps
 
-- *(If you ship a commercial app with Electrobun and want it listed, open a PR  optional: include a short description and website link.)*
+- *(If you ship a commercial app with Electrobun and want it listed, open a PR — optional: include a short description and website link.)*
 
 ## Community
 
-- **Discord**  Community chat (linked from the main repo). https://github.com/blackboardsh/electrobun
-- **X (Twitter)**  @electrobun (linked from the main repo). https://github.com/blackboardsh/electrobun
+- **Discord** — Community chat (linked from the main repo). https://github.com/blackboardsh/electrobun
+- **X (Twitter)** — @electrobun (linked from the main repo). https://github.com/blackboardsh/electrobun
 
 ## Related Projects
 
-- **Bun**  JavaScript runtime often used with Electrobun. https://bun.sh/
-- **Zig**  Systems language used for native parts in the Electrobun ecosystem. https://ziglang.org/
+- **Bun** — JavaScript runtime often used with Electrobun. https://bun.sh/
+- **Zig** — Systems language used for native parts in the Electrobun ecosystem. https://ziglang.org/
 
 ## Contributing
 

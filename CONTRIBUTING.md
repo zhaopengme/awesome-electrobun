@@ -21,7 +21,7 @@ We accept:
 
 Please add items using this format:
 
-- **Name**  one-line description. (tags)
+- **Name** — one-line description. (tags)
 
 Where tags are optional (examples: `macos`, `windows`, `updater`, `template`, `ui`, `rpc`).
 
