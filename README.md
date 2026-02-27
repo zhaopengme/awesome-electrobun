@@ -23,6 +23,7 @@ English | [简体中文](./README.zh-CN.md)
 - [CI/CD & Release Automation](#cicd--release-automation)
 - [Debugging, Profiling & Performance](#debugging-profiling--performance)
 - [Testing](#testing)
+- [AI / Claude Code Skills & Plugins](#ai--claude-code-skills--plugins)
 - [Example Apps (Open Source)](#example-apps-open-source)
 - [Commercial Apps](#commercial-apps)
 - [Community](#community)
@@ -42,7 +43,17 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Templates & Starter Kits
 
-- *(Looking for starter templates: React/Vite/Solid/Vue + Tailwind, etc. Submit a PR!)*
+- **mattgi/electrobun-starter** — Bun + Vite + React + Tailwind + shadcn/ui starter. https://github.com/mattgi/electrobun-starter
+- **rajavijayach/catalyst-electrobun-boilerplate** — Catalyst + Electrobun monorepo boilerplate (template). https://github.com/rajavijayach/catalyst-electrobun-boilerplate
+- **context-assistant/electrobun-template** — Electrobun template repository. https://github.com/context-assistant/electrobun-template
+- **adam2am/sveltekit-electrobun** — SvelteKit starter for Electrobun. https://github.com/adam2am/sveltekit-electrobun
+- **TB516/electrobun-svelte-template** — Svelte template for Electrobun. https://github.com/TB516/electrobun-svelte-template
+- **jeffgca/electrobun-sveltekit-example** — Example of running SvelteKit inside an Electrobun project. https://github.com/jeffgca/electrobun-sveltekit-example
+- **AlessandroSampaio/electrobun-solid-tailwind-template** — Solid + Tailwind template for Electrobun. https://github.com/AlessandroSampaio/electrobun-solid-tailwind-template
+- **Ataraxy-Labs/electrobun-react-starter** — Minimal starter: Electrobun + React + TanStack Router + Vite. https://github.com/Ataraxy-Labs/electrobun-react-starter
+- **AugusDogus/create-electrobun-react** — Starter template for Electrobun + React (create-* style). https://github.com/AugusDogus/create-electrobun-react
+- **rmay1er/electrobun-counter-template** — Counter template. https://github.com/rmay1er/electrobun-counter-template
+- **JakkeLab-AEC/electrobun-three-kit** — Boilerplate for 3D apps. https://github.com/JakkeLab-AEC/electrobun-three-kit
 
 ## UI / Frontend (Webview)
 
@@ -50,9 +61,13 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Native Capabilities (OS Integration)
 
+- **mayfer/electrobun-macos-native-blur** — Enable macOS native-like background blur in Electrobun. https://github.com/mayfer/electrobun-macos-native-blur
+
 - *(Tray/menu, notifications, file dialogs, deep links/protocol handlers, global shortcuts, clipboard, etc.)*
 
 ## Main ↔ Webview Communication
+
+- **Ataraxy-Labs/agent-electrobun** — CDP automation CLI for Electrobun desktop apps (agent-browser-style). https://github.com/Ataraxy-Labs/agent-electrobun
 
 - *(RPC bridges, message bus patterns, type-safe IPC, state sync.)*
 
@@ -61,6 +76,8 @@ English | [简体中文](./README.zh-CN.md)
 - **zig-bsdiff** — SIMD + zstd powered bsdiff/bspatch; used by Electrobun for differential updates. https://blackboard.sh/blog/introducing-zig-bsdiff/
 
 ## Packaging, Signing & Notarization
+
+- **wnix/nix-electrobun** — Nix flake to develop and package an Electrobun application. https://github.com/wnix/nix-electrobun
 
 - *(Guides and tooling for macOS signing/notarization, Windows code signing, Linux packaging.)*
 
@@ -76,10 +93,27 @@ English | [简体中文](./README.zh-CN.md)
 
 - *(E2E testing for desktop apps, unit testing patterns, golden UI tests, CI tips.)*
 
+## AI / Claude Code Skills & Plugins
+
+- **recrsn/claude-plugins** — Claude Code plugin to migrate Electron apps to Electrobun. https://github.com/recrsn/claude-plugins
+- **rajavijayach/electrobun-skills** — Specialized skills for building desktop apps with Electrobun. https://github.com/rajavijayach/electrobun-skills
+- **marketcalls/electrobun-skill** — Claude Code skill for Electrobun desktop apps (algo-trading focused). https://github.com/marketcalls/electrobun-skill
+
 ## Example Apps (Open Source)
 
-- **Audio TTS** — Example app (from the Electrobun repo). https://github.com/blackboardsh/electrobun
-- **Co(lab)** — Another app built with Electrobun (listed in the repo). https://github.com/blackboardsh/electrobun
+- **blackboardsh/audio-tts** — Text-to-speech audio clip generator (official org). https://github.com/blackboardsh/audio-tts
+- **blackboardsh/electrobun-dawn** — Electrobun-related repo (official org). https://github.com/blackboardsh/electrobun-dawn
+- **designxdevelop/electrobun-google-messages** — Google Messages desktop wrapper. https://github.com/designxdevelop/electrobun-google-messages
+- **ddv1982/suno-prompting** — Suno prompting desktop app (AI prompts). https://github.com/ddv1982/suno-prompting
+- **radish-miyazaki/electrobun-simple-browser** — Simple browser example app. https://github.com/radish-miyazaki/electrobun-simple-browser
+- **t1m0thyj/zowe-electrobun-sample** — Zowe SDK GUI sample app. https://github.com/t1m0thyj/zowe-electrobun-sample
+- **DutchRican/electrobun-did-a-recruiter-look** — Electrobun remake of the "did-a-recruiter-even-look" idea. https://github.com/DutchRican/electrobun-did-a-recruiter-look
+- **lolrazh/clawrvis** — Always-on voice-first AI assistant. https://github.com/lolrazh/clawrvis
+- **kittechsix-blip/medkitt** — Offline-first Emergency Medicine workflow tool. https://github.com/kittechsix-blip/medkitt
+- **lopadz/crate** — Desktop audio sample browser/analyzer. https://github.com/lopadz/crate
+- **crander7/devlog** — Local/private productivity app (React + SQLite). https://github.com/crander7/devlog
+- **okikeSolutions/guerillaglass** — Open-source creator studio workflow app (record → edit → deliver). https://github.com/okikeSolutions/guerillaglass
+- **openclaw-infra/clawflow-desk** — Ultra-lightweight AI CLI configuration manager built with Electrobun. https://github.com/openclaw-infra/clawflow-desk
 
 ## Commercial Apps
 
