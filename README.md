@@ -1,5 +1,7 @@
 # Awesome Electrobun
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome **Electrobun** resources, tooling, templates, UI kits, examples, and apps.
 
 English | [简体中文](./README.zh-CN.md)
