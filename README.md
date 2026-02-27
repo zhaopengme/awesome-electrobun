@@ -2,6 +2,8 @@
 
 A curated list of awesome **Electrobun** resources, tooling, templates, UI kits, examples, and apps.
 
+English | [简体中文](./README.zh-CN.md)
+
 - PRs welcome
 - Keep descriptions short (one line)
 - Prefer primary sources (official docs/repos) over reposts
