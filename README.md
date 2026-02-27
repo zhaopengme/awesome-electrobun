@@ -46,8 +46,8 @@ English | [简体中文](./README.zh-CN.md)
 - **mattgi/electrobun-starter** — Bun + Vite + React + Tailwind + shadcn/ui starter. https://github.com/mattgi/electrobun-starter
 - **rajavijayach/catalyst-electrobun-boilerplate** — Monorepo template: Catalyst web app + Electrobun desktop shell (Bun) with shared RPC types and CI workflow. https://github.com/rajavijayach/catalyst-electrobun-boilerplate
 - **context-assistant/electrobun-template** — Electrobun template repository. https://github.com/context-assistant/electrobun-template
-- **adam2am/sveltekit-electrobun** — SvelteKit starter for Electrobun. https://github.com/adam2am/sveltekit-electrobun
-- **TB516/electrobun-svelte-template** — Svelte template for Electrobun. https://github.com/TB516/electrobun-svelte-template
+- **adam2am/sveltekit-electrobun** — Minimal SvelteKit skeleton for Electrobun: Svelte 5 (runes), Vite HMR, and adapter-static prerendering. https://github.com/adam2am/sveltekit-electrobun
+- **TB516/electrobun-svelte-template** — Svelte 5 template with Vite HMR dev flow for Electrobun desktop apps. https://github.com/TB516/electrobun-svelte-template
 - **jeffgca/electrobun-sveltekit-example** — Example of running SvelteKit inside an Electrobun project. https://github.com/jeffgca/electrobun-sveltekit-example
 - **AlessandroSampaio/electrobun-solid-tailwind-template** — Solid + Tailwind template for Electrobun. https://github.com/AlessandroSampaio/electrobun-solid-tailwind-template
 - **Ataraxy-Labs/electrobun-react-starter** — Batteries-included starter: React 19 + TanStack Router/Query + Tailwind CSS v4 + Vite 7, with a Bun backend and separate Shell RPC vs Tab RPC channels. https://github.com/Ataraxy-Labs/electrobun-react-starter
@@ -102,7 +102,7 @@ English | [简体中文](./README.zh-CN.md)
 - **blackboardsh/audio-tts** — Text-to-speech audio clip generator (official org). https://github.com/blackboardsh/audio-tts
 - **blackboardsh/electrobun-dawn** — Electrobun-related repo (official org). https://github.com/blackboardsh/electrobun-dawn
 - **designxdevelop/electrobun-google-messages** — Google Messages desktop wrapper. https://github.com/designxdevelop/electrobun-google-messages
-- **ddv1982/suno-prompting** — Suno prompting desktop app (AI prompts). https://github.com/ddv1982/suno-prompting
+- **ddv1982/suno-prompting** — Desktop prompt-builder for Suno: structured fields (genre/BPM/mood/instruments) with local LLM mode via Ollama and multiple generation modes. https://github.com/ddv1982/suno-prompting
 - **radish-miyazaki/electrobun-simple-browser** — Simple browser example app. https://github.com/radish-miyazaki/electrobun-simple-browser
 - **t1m0thyj/zowe-electrobun-sample** — Zowe SDK GUI sample app. https://github.com/t1m0thyj/zowe-electrobun-sample
 - **DutchRican/electrobun-did-a-recruiter-look** — Electrobun remake of the "did-a-recruiter-even-look" idea. https://github.com/DutchRican/electrobun-did-a-recruiter-look
