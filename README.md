@@ -77,8 +77,6 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Packaging, Signing & Notarization
 
-- **wnix/nix-electrobun** — Nix flake to develop and package an Electrobun application. https://github.com/wnix/nix-electrobun
-
 - *(Guides and tooling for macOS signing/notarization, Windows code signing, Linux packaging.)*
 
 ## CI/CD & Release Automation
