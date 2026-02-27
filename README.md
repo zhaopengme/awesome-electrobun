@@ -61,13 +61,13 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Native Capabilities (OS Integration)
 
-- **mayfer/electrobun-macos-native-blur** — Enable macOS native-like background blur in Electrobun. https://github.com/mayfer/electrobun-macos-native-blur
+- **mayfer/electrobun-macos-native-blur** — macOS vibrancy (NSVisualEffectView) + traffic-light alignment + shadow restoration via a tiny Objective-C bridge loaded through Bun FFI. https://github.com/mayfer/electrobun-macos-native-blur
 
 - *(Tray/menu, notifications, file dialogs, deep links/protocol handlers, global shortcuts, clipboard, etc.)*
 
 ## Main ↔ Webview Communication
 
-- **Ataraxy-Labs/agent-electrobun** — CDP automation CLI for Electrobun desktop apps (agent-browser-style). https://github.com/Ataraxy-Labs/agent-electrobun
+- **Ataraxy-Labs/agent-electrobun** — CDP automation CLI for Electrobun apps that attaches via raw WebSocket (no auto-navigation), preserving the shell/OOPIF lifecycle. https://github.com/Ataraxy-Labs/agent-electrobun
 
 - *(RPC bridges, message bus patterns, type-safe IPC, state sync.)*
 
