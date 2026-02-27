@@ -101,16 +101,16 @@ English | [简体中文](./README.zh-CN.md)
 
 - **blackboardsh/audio-tts** — Text-to-speech audio clip generator (official org). https://github.com/blackboardsh/audio-tts
 - **blackboardsh/electrobun-dawn** — Electrobun-related repo (official org). https://github.com/blackboardsh/electrobun-dawn
-- **designxdevelop/electrobun-google-messages** — Google Messages desktop wrapper. https://github.com/designxdevelop/electrobun-google-messages
+- **designxdevelop/electrobun-google-messages** — Google Messages Web desktop wrapper with persistent partition storage to keep login state. https://github.com/designxdevelop/electrobun-google-messages
 - **ddv1982/suno-prompting** — Desktop prompt-builder for Suno: structured fields (genre/BPM/mood/instruments) with local LLM mode via Ollama and multiple generation modes. https://github.com/ddv1982/suno-prompting
 - **radish-miyazaki/electrobun-simple-browser** — Simple browser example app. https://github.com/radish-miyazaki/electrobun-simple-browser
 - **t1m0thyj/zowe-electrobun-sample** — Zowe SDK GUI sample app. https://github.com/t1m0thyj/zowe-electrobun-sample
 - **DutchRican/electrobun-did-a-recruiter-look** — Electrobun remake of the "did-a-recruiter-even-look" idea. https://github.com/DutchRican/electrobun-did-a-recruiter-look
 - **lolrazh/clawrvis** — Always-on voice-first AI assistant. https://github.com/lolrazh/clawrvis
 - **kittechsix-blip/medkitt** — Offline-first Emergency Medicine workflow tool. https://github.com/kittechsix-blip/medkitt
-- **lopadz/crate** — Desktop audio sample browser/analyzer. https://github.com/lopadz/crate
-- **crander7/devlog** — Local/private productivity app (React + SQLite). https://github.com/crander7/devlog
-- **okikeSolutions/guerillaglass** — Open-source creator studio workflow app (record → edit → deliver). https://github.com/okikeSolutions/guerillaglass
+- **lopadz/crate** — macOS audio library browser for producers: instant playback + tagging + BPM/key/LUFS analysis (SQLite) — built with Electrobun + React. https://github.com/lopadz/crate
+- **crander7/devlog** — Local-first productivity app (sessions/todos/notes/habits/pomodoro) with tray + optional CLI; built with Electrobun + React + SQLite (Drizzle). https://github.com/crander7/devlog
+- **okikeSolutions/guerillaglass** — Open-source creator studio (record → edit → deliver) with hybrid architecture: Electrobun + React/Tailwind shell and native media engines (Swift on macOS; stubs/native WIP for Windows/Linux). https://github.com/okikeSolutions/guerillaglass
 - **openclaw-infra/clawflow-desk** — Ultra-lightweight AI CLI configuration manager built with Electrobun. https://github.com/openclaw-infra/clawflow-desk
 
 ## Commercial Apps
