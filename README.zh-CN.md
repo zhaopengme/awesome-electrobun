@@ -21,8 +21,10 @@
 - [CI/CD 与发布自动化](#cicd-与发布自动化)
 - [调试、性能分析与优化](#调试性能分析与优化)
 - [测试](#测试)
+- [AI / Claude Code 技能与插件](#ai--claude-code-技能与插件)
 - [示例应用（开源）](#示例应用开源)
 - [商业应用](#商业应用)
+- [文章](#文章)
 - [社区](#社区)
 - [相关项目](#相关项目)
 - [贡献指南](#贡献指南)
@@ -82,6 +84,12 @@
 ## 商业应用
 
 - *(如果你使用 Electrobun 发布了商业应用且希望被收录，欢迎提 PR；可选：一句话简介 + 官网链接。)*
+
+## 文章
+
+- **Electrobun Born, MCP Hits Chrome, Still Learning to Code** — 周刊 roundup，涵盖 Electrobun 发布内容。 https://dev.to/urbanisierung/electrobun-born-mcp-hits-chrome-still-learning-to-code-21b8 (2026年2月27日)
+- **This Week In React #269** — React 周刊，推荐了 Electrobun。 https://dev.to/sebastienlorber/this-week-in-react-269-state-of-react-tanstack-nextjs-hermes-sparkling-yoga-interop-g7j (2026年2月20日)
+- **JavaScript's Fragmentation Crisis: Innovation vs. Interoperability** — JavaScript 生态碎片化分析，包含 Electrobun。 https://dev.to/pratikmathur279/javascripts-fragmentation-crisis-innovation-vs-interoperability-4ak9 (2026年2月28日)
 
 ## 社区
 
