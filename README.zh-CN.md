@@ -66,6 +66,8 @@
 
 ## CI/CD 与发布自动化
 
+- **wnix/nix-electrobun** — 用于开发和打包 Electrobun 应用的实验性 Nix flake。https://github.com/wnix/nix-electrobun
+
 - *(GitHub Actions 工作流、发布工具、签名自动化、更新渠道策略等。)*
 
 ## 调试、性能分析与优化
@@ -78,8 +80,22 @@
 
 ## 示例应用（开源）
 
-- **Audio TTS** — Electrobun 仓库中列出的示例应用。https://github.com/blackboardsh/electrobun
-- **Co(lab)** — Electrobun 仓库中列出的另一个应用。https://github.com/blackboardsh/electrobun
+- **blackboardsh/electrobun-doom** — 在 Electrobun 上运行的经典 DOOM 游戏。https://github.com/blackboardsh/electrobun-doom
+- **blackboardsh/audio-tts** — 文本转语音音频片段生成器（官方组织）。https://github.com/blackboardsh/audio-tts
+- **blackboardsh/electrobun-dawn** — Electrobun 相关仓库（官方组织）。https://github.com/blackboardsh/electrobun-dawn
+- **designxdevelop/electrobun-google-messages** — Google Messages Web 桌面包，支持持久化分区存储以保持登录状态。https://github.com/designxdevelop/electrobun-google-messages
+- **ddv1982/suno-prompting** — Suno 桌面提示词构建工具：结构化字段（流派/BPM/情绪/乐器），支持通过 Ollama 的本地 LLM 模式和多种生成模式。https://github.com/ddv1982/suno-prompting
+- **MinhOmega/git-account-switcher** — macOS 菜单栏应用，用于管理和切换多个 GitHub 账号。支持原子化更新 git 凭据、全局配置和 GitHub CLI 会话，并提供回滚功能。https://github.com/MinhOmega/git-account-switcher
+- **radish-miyazaki/electrobun-simple-browser** — 简单浏览器示例应用。https://github.com/radish-miyazaki/electrobun-simple-browser
+- **t1m0thyj/zowe-electrobun-sample** — Zowe SDK GUI 示例应用。https://github.com/t1m0thyj/zowe-electrobun-sample
+- **DutchRican/electrobun-did-a-recruiter-look** — "did-a-recruiter-even-look" 想法的 Electrobun 重制版。https://github.com/DutchRican/electrobun-did-a-recruiter-look
+- **lolrazh/clawrvis** — 始终在线的语音优先 AI 助手。https://github.com/lolrazh/clawrvis
+- **kittechsix-blip/medkitt** — 离线优先的急诊医学工作流工具。https://github.com/kittechsix-blip/medkitt
+- **khanhthanhdev/electrobun-rms** — Electrobun RMS（餐厅管理系统）应用。https://github.com/khanhthanhdev/electrobun-rms
+- **lopadz/crate** — macOS 音频库浏览器，面向音乐制作人：即时播放 + 标签 + BPM/调性/LUFS 分析（SQLite）— 基于 Electrobun + React 构建。https://github.com/lopadz/crate
+- **crander7/devlog** — 本地优先的生产力应用（会话/待办/笔记/习惯/番茄钟），支持托盘 + 可选 CLI；基于 Electrobun + React + SQLite (Drizzle) 构建。https://github.com/crander7/devlog
+- **okikeSolutions/guerillaglass** — 开源创作者工作室（录制 → 编辑 → 交付），混合架构：Electrobun + React/Tailwind shell 和原生媒体引擎（macOS 上用 Swift；Windows/Linux 的 stub/原生实现进行中）。https://github.com/okikeSolutions/guerillaglass
+- **openclaw-infra/clawflow-desk** — 基于 Electrobun 构建的超轻量级 AI CLI 配置管理器。https://github.com/openclaw-infra/clawflow-desk
 
 ## 商业应用
 
