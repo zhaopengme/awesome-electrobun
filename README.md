@@ -26,6 +26,7 @@ English | [简体中文](./README.zh-CN.md)
 - [AI / Claude Code Skills & Plugins](#ai--claude-code-skills--plugins)
 - [Example Apps (Open Source)](#example-apps-open-source)
 - [Commercial Apps](#commercial-apps)
+- [Articles](#articles)
 - [Community](#community)
 - [Related Projects](#related-projects)
 - [Contributing](#contributing)
@@ -116,6 +117,12 @@ English | [简体中文](./README.zh-CN.md)
 ## Commercial Apps
 
 - *(If you ship a commercial app with Electrobun and want it listed, open a PR — optional: include a short description and website link.)*
+
+## Articles
+
+- **Electrobun Born, MCP Hits Chrome, Still Learning to Code** — Weekly roundup covering Electrobun's release. https://dev.to/urbanisierung/electrobun-born-mcp-hits-chrome-still-learning-to-code-21b8 (Feb 27, 2026)
+- **This Week In React #269** — React weekly newsletter featuring Electrobun. https://dev.to/sebastienlorber/this-week-in-react-269-state-of-react-tanstack-nextjs-hermes-sparkling-yoga-interop-g7j (Feb 20, 2026)
+- **JavaScript's Fragmentation Crisis: Innovation vs. Interoperability** — Analysis of JavaScript ecosystem fragmentation including Electrobun. https://dev.to/pratikmathur279/javascripts-fragmentation-crisis-innovation-vs-interoperability-4ak9 (Feb 28, 2026)
 
 ## Community
 
