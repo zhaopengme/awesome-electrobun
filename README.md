@@ -82,6 +82,8 @@ English | [简体中文](./README.zh-CN.md)
 
 ## CI/CD & Release Automation
 
+- **wnix/nix-electrobun** — Experimental Nix flake for developing and packaging Electrobun applications. https://github.com/wnix/nix-electrobun
+
 - *(GitHub Actions workflows, release tooling, signing automation, update channel strategies.)*
 
 ## Debugging, Profiling & Performance
@@ -94,21 +96,24 @@ English | [简体中文](./README.zh-CN.md)
 
 ## AI / Claude Code Skills & Plugins
 
-- **recrsn/claude-plugins** — Claude Code plugin to migrate Electron apps to Electrobun. https://github.com/recrsn/claude-plugins
+- **recrsn/agent-skills** — Claude Code plugin to migrate Electron apps to Electrobun. https://github.com/recrsn/agent-skills
 - **rajavijayach/electrobun-skills** — Specialized skills for building desktop apps with Electrobun. https://github.com/rajavijayach/electrobun-skills
 - **marketcalls/electrobun-skill** — Claude Code skill for Electrobun desktop apps (algo-trading focused). https://github.com/marketcalls/electrobun-skill
 
 ## Example Apps (Open Source)
 
+- **blackboardsh/electrobun-doom** — Classic DOOM game running on Electrobun. https://github.com/blackboardsh/electrobun-doom
 - **blackboardsh/audio-tts** — Text-to-speech audio clip generator (official org). https://github.com/blackboardsh/audio-tts
 - **blackboardsh/electrobun-dawn** — Electrobun-related repo (official org). https://github.com/blackboardsh/electrobun-dawn
 - **designxdevelop/electrobun-google-messages** — Google Messages Web desktop wrapper with persistent partition storage to keep login state. https://github.com/designxdevelop/electrobun-google-messages
 - **ddv1982/suno-prompting** — Desktop prompt-builder for Suno: structured fields (genre/BPM/mood/instruments) with local LLM mode via Ollama and multiple generation modes. https://github.com/ddv1982/suno-prompting
+- **MinhOmega/git-account-switcher** — macOS menu bar app to manage and switch between multiple GitHub accounts. Updates git credentials, global config, and GitHub CLI sessions atomically with rollback. https://github.com/MinhOmega/git-account-switcher
 - **radish-miyazaki/electrobun-simple-browser** — Simple browser example app. https://github.com/radish-miyazaki/electrobun-simple-browser
 - **t1m0thyj/zowe-electrobun-sample** — Zowe SDK GUI sample app. https://github.com/t1m0thyj/zowe-electrobun-sample
 - **DutchRican/electrobun-did-a-recruiter-look** — Electrobun remake of the "did-a-recruiter-even-look" idea. https://github.com/DutchRican/electrobun-did-a-recruiter-look
 - **lolrazh/clawrvis** — Always-on voice-first AI assistant. https://github.com/lolrazh/clawrvis
 - **kittechsix-blip/medkitt** — Offline-first Emergency Medicine workflow tool. https://github.com/kittechsix-blip/medkitt
+- **khanhthanhdev/electrobun-rms** — Electrobun RMS (Restaurant Management System) application. https://github.com/khanhthanhdev/electrobun-rms
 - **lopadz/crate** — macOS audio library browser for producers: instant playback + tagging + BPM/key/LUFS analysis (SQLite) — built with Electrobun + React. https://github.com/lopadz/crate
 - **crander7/devlog** — Local-first productivity app (sessions/todos/notes/habits/pomodoro) with tray + optional CLI; built with Electrobun + React + SQLite (Drizzle). https://github.com/crander7/devlog
 - **okikeSolutions/guerillaglass** — Open-source creator studio (record → edit → deliver) with hybrid architecture: Electrobun + React/Tailwind shell and native media engines (Swift on macOS; stubs/native WIP for Windows/Linux). https://github.com/okikeSolutions/guerillaglass
