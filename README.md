@@ -44,6 +44,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Templates & Starter Kits
 
+- **appbun** — CLI that turns any webpage into an inspectable Electrobun desktop app project with metadata, icon discovery, recipes, and packaging flows. https://github.com/bigmacfive/appbun (`cli`, `template`, `packaging`)
 - **mattgi/electrobun-starter** — Bun + Vite + React + Tailwind + shadcn/ui starter. https://github.com/mattgi/electrobun-starter
 - **rajavijayach/catalyst-electrobun-boilerplate** — Monorepo template: Catalyst web app + Electrobun desktop shell (Bun) with shared RPC types and CI workflow. https://github.com/rajavijayach/catalyst-electrobun-boilerplate
 - **context-assistant/electrobun-template** — Electrobun template repository. https://github.com/context-assistant/electrobun-template
