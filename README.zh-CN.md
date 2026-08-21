@@ -58,6 +58,8 @@
 
 ## UI / 前端（Webview）
 
+- **codecaine-zz/electrobun_easydialogs** — 适用于 macOS 上 Bun 与 Electrobun 的现代化高性能桌面对话框库，提供精美动效的 HTML5 对话框与表单。https://github.com/codecaine-zz/electrobun_easydialogs
+
 - *(UI kits、组件库、shadcn/ui 集成、设计系统、主题包等。)*
 
 ## 原生能力（系统集成）
