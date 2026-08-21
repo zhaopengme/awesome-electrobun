@@ -58,6 +58,8 @@ English | [简体中文](./README.zh-CN.md)
 
 ## UI / Frontend (Webview)
 
+- **codecaine-zz/electrobun_easydialogs** — Modern, high-performance desktop dialog library for Bun and Electrobun on macOS with polished, animated HTML5 dialogs and forms. https://github.com/codecaine-zz/electrobun_easydialogs
+
 - *(UI kits, component libraries, shadcn/ui integrations, design systems, theme packs.)*
 
 ## Native Capabilities (OS Integration)
